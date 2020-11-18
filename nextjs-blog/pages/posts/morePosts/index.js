@@ -10,6 +10,11 @@ export default function morePosts() {
       </Head>
       <h1>More Posts</h1>
       <h2>
+        <Link href="/posts/morePosts/anotherLayer/">
+          <a>Keep Going</a>
+        </Link>
+      </h2>
+      <h2>
         <Link href="/">
           <a>Back to home</a>
         </Link>
